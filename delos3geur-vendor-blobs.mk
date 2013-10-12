@@ -82,4 +82,4 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/deslo3geur/proprietary/lib/libqdp.so:system/lib/libqdp.so \
 	vendor/samsung/deslo3geur/proprietary/lib/libqmi.so:system/lib/libqmi.so \
 	vendor/samsung/deslo3geur/proprietary/lib/libqmi_client_qmux.so:system/lib/libqmi_client_qmux.so \
-	vendor/samsung/deslo3geur/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
+	vendor/samsung/deslo3geur/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so
