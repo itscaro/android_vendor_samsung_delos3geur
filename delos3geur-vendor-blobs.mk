@@ -53,7 +53,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/hw/audio_policy.msm7x27a.so:system/lib/hw/audio_policy.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/copybit.msm7x27a.so:system/lib/hw/copybit.msm7x27a.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/gps.msm7x27a.so:system/lib/hw/gps.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/gralloc.msm7x27a.so:system/lib/hw/gralloc.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/hwcomposer.msm7x27a.so:system/lib/hw/hwcomposer.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so \
