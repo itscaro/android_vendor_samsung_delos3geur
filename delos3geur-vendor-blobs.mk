@@ -55,6 +55,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/hw/copybit.msm7627a.so:system/lib/hw/copybit.msm7627a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/gralloc.msm7627a.so:system/lib/hw/gralloc.msm7627a.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/hwcomposer.msm7627a.so:system/lib/hw/hwcomposer.msm7627a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/lights.msm7627a.so:system/lib/hw/lights.msm7627a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
