@@ -63,6 +63,9 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/libgemini.so:system/lib/libgemini.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgps.so:system/lib/libgps.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+	vendor/samsung/delos3geur/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+	vendor/samsung/delos3geur/proprietary/lib/libhwcexternal.so:system/lib/libhwcexternal.so \
+	vendor/samsung/delos3geur/proprietary/lib/libhwcservice.so:system/lib/libhwcservice.so \
 	vendor/samsung/delos3geur/proprietary/lib/libidl.so:system/lib/libidl.so \
 	vendor/samsung/delos3geur/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
 	vendor/samsung/delos3geur/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
