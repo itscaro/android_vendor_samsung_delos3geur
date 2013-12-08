@@ -48,16 +48,17 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/audio.primary.msm7627a.so:system/lib/hw/audio.primary.msm7627a.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/audio.primary.msm7x27a.so:system/lib/hw/audio.primary.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/audio_policy.msm7627a.so:system/lib/hw/audio_policy.msm7627a.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/camera.msm7627a.so:system/lib/hw/camera.msm7627a.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/copybit.msm7627a.so:system/lib/hw/copybit.msm7627a.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/hwcomposer.msm7627a.so:system/lib/hw/hwcomposer.msm7627a.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/lights.msm7627a.so:system/lib/hw/lights.msm7627a.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/audio_policy.msm7x27a.so:system/lib/hw/audio_policy.msm7x27a.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/copybit.msm7x27a.so:system/lib/hw/copybit.msm7x27a.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/gps.msm7x27a.so:system/lib/hw/gps.msm7x27a.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/hwcomposer.msm7x27a.so:system/lib/hw/hwcomposer.msm7x27a.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/power.msm7x27a.so:system/lib/hw/power.msm7x27a.so \
+        vendor/samsung/delos3geur/proprietary/lib/hw/power.goldfish.so:system/lib/hw/power.goldfish.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/sensors.delos3geur.so:system/lib/hw/sensors.delos3geur.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgemini.so:system/lib/libgemini.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgps.so:system/lib/libgps.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
