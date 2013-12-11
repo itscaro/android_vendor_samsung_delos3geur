@@ -54,7 +54,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/gps.msm7x27a.so:system/lib/hw/gps.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/sensors.delos3geur.so:system/lib/hw/sensors.delos3geur.so \
+	vendor/samsung/delos3geur/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
 	vendor/samsung/delos3geur/proprietary/lib/libaudiopolicy_sec.so:system/lib/libaudiopolicy_sec.so \
 	vendor/samsung/delos3geur/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgemini.so:system/lib/libgemini.so \
