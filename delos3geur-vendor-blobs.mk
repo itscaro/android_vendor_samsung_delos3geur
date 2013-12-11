@@ -55,6 +55,8 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/hw/gps.msm7x27a.so:system/lib/hw/gps.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/sensors.delos3geur.so:system/lib/hw/sensors.delos3geur.so \
+	vendor/samsung/delos3geur/proprietary/lib/libaudiopolicy_sec.so:system/lib/libaudiopolicy_sec.so \
+	vendor/samsung/delos3geur/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgemini.so:system/lib/libgemini.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgps.so:system/lib/libgps.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
@@ -74,6 +76,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/libmmcamera_interface2.so:system/lib/libmmcamera_interface2.so \
 	vendor/samsung/delos3geur/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
 	vendor/samsung/delos3geur/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
+	vendor/samsung/delos3geur/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
 	vendor/samsung/delos3geur/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
 	vendor/samsung/delos3geur/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
 	vendor/samsung/delos3geur/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
