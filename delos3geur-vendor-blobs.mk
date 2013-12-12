@@ -45,6 +45,7 @@ PRODUCT_COPY_FILES += \
 	$(VENDOR_BLOBS_DIR)/etc/thermald-8x25q-msm2-msm_therm.conf:system/etc/thermald-8x25q-msm2-msm_therm.conf \
 	$(VENDOR_BLOBS_DIR)/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
 	$(VENDOR_BLOBS_DIR)/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
+	$(VENDOR_BLOBS_DIR)/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
 	$(VENDOR_BLOBS_DIR)/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
 	$(VENDOR_BLOBS_DIR)/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
 	$(VENDOR_BLOBS_DIR)/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
