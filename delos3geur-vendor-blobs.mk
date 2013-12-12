@@ -46,10 +46,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/audio.primary.msm7x27a.so:system/lib/hw/audio.primary.msm7x27a.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
-	vendor/samsung/delos3geur/proprietary/lib/hw/audio_policy.msm7x27a.so:system/lib/hw/audio_policy.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/gps.msm7x27a.so:system/lib/hw/gps.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so \
