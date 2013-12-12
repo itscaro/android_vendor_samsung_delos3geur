@@ -56,7 +56,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
 	vendor/samsung/delos3geur/proprietary/lib/libaudiopolicy_sec.so:system/lib/libaudiopolicy_sec.so \
 	vendor/samsung/delos3geur/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
-	vendor/samsung/delos3geur/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so
+	vendor/samsung/delos3geur/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgemini.so:system/lib/libgemini.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgps.so:system/lib/libgps.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
