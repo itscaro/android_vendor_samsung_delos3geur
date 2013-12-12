@@ -43,7 +43,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/etc/thermald-8x25q-msm2-msm_therm.conf:system/etc/thermald-8x25q-msm2-msm_therm.conf \
 	vendor/samsung/delos3geur/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
-        vendor/samsung/delos3geur/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
+	vendor/samsung/delos3geur/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
