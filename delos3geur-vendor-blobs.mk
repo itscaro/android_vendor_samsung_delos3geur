@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/bin/e2fsck:system/bin/e2fsck \
 	vendor/samsung/delos3geur/proprietary/bin/fmconfig:system/bin/fmconfig \
 	vendor/samsung/delos3geur/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-	vendor/samsung/delos3geur/proprietary/bin/keystore:system/bin/keystore \
 	vendor/samsung/delos3geur/proprietary/bin/mpdecision:system/bin/mpdecision \
 	vendor/samsung/delos3geur/proprietary/bin/netmgrd:system/bin/netmgrd \
 	vendor/samsung/delos3geur/proprietary/bin/qmuxd:system/bin/qmuxd \
