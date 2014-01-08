@@ -45,6 +45,8 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
 	vendor/samsung/delos3geur/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
+        vendor/samsung/delos3geur/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
+        vendor/samsung/delos3geur/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/gps.msm7x27a.so:system/lib/hw/gps.msm7x27a.so \
 	vendor/samsung/delos3geur/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so \
@@ -54,6 +56,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/libgps.so:system/lib/libgps.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
 	vendor/samsung/delos3geur/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+        vendor/samsung/delos3geur/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
 	vendor/samsung/delos3geur/proprietary/lib/libhwcexternal.so:system/lib/libhwcexternal.so \
 	vendor/samsung/delos3geur/proprietary/lib/libhwcservice.so:system/lib/libhwcservice.so \
 	vendor/samsung/delos3geur/proprietary/lib/libidl.so:system/lib/libidl.so \
@@ -101,6 +104,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/delos3geur/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
 	vendor/samsung/delos3geur/proprietary/lib/libOmxrv9Dec.so:system/lib/libOmxrv9Dec.so \
 	vendor/samsung/delos3geur/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
+        vendor/samsung/delos3geur/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
 	vendor/samsung/delos3geur/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
 	vendor/samsung/delos3geur/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
 	vendor/samsung/delos3geur/proprietary/lib/libchromatix_imx074_default_video.so:system/lib/libchromatix_imx074_default_video.so \
